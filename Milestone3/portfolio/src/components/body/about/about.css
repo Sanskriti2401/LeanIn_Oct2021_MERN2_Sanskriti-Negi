@@ -1,0 +1,12 @@
+.about {
+  background-color: #c2fff9;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: 700;
+  text-decoration: underline;
+  padding: 5px;
+}
